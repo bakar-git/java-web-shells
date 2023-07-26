@@ -12,7 +12,7 @@ replace cmd parameter with command you want to execute like ls, id, whomai etc
 
 ## oracle-webshell.jsp
 
-It allows you to connect with oracle database using connection string, username and password. It allows you to execute any SQL query on database 
+It allows you to connect with oracle database using connection string, username and password. It allows you to execute any SQL query on database. This also gives output if sql query in a proper tabular format.
 
 ### USAGE
 
@@ -24,7 +24,7 @@ n : User Name : root
 
 p : Password : root
 
-s : SQL query : SELECT 1 FROM DUAL
+s : SQL query : SELECT * FROM all_tables -> This will give all tables of database
 
 replace u, n, p and s according toyour need
 
