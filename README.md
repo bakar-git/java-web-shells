@@ -28,4 +28,6 @@ s : SQL query : SELECT * FROM all_tables -> This will give all tables of databas
 
 replace u, n, p and s according toyour need
 
+### LEGAL NOTICE
 
+For educational purposes only: The developer explicitly disclaims any responsibility for misuse. It is imperative to exclusively target servers for which you possess legitimate authorization
